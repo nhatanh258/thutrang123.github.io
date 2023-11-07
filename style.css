@@ -1,0 +1,25 @@
+.bg-img1 {
+  background-color: aliceblue#000;
+  background-size: cover;
+  background-image: url("z4835633519686_99c99da285baf2105b09441b92a88700.jpg");
+}
+.bg-img2 {
+  background-color: aliceblue#000;
+  background-size: cover;
+  background-image: url("z4835633519686_99c99da285baf2105b09441b92a88700.jpg");
+}
+.bg-img3 {
+  background-color: aliceblue#000;
+  background-size: cover;
+  background-image: url("z4835633519686_99c99da285baf2105b09441b92a88700.jpg");
+}
+
+.carousel-item {
+  height: 500px;
+}
+footer {
+  margin-top: 700px;
+}
+.r {
+  padding-top: 300px;
+}
